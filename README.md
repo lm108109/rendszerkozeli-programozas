@@ -1,0 +1,2 @@
+# rendszerkozeli-programozas
+Egyetemi projektmunka
